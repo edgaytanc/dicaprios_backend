@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'dicaprios_db',
         'USER': 'root',
         'PASSWORD': 'edgc2001--',
-        'HOST': '192.168.31.74',
+        'HOST': '192.168.31.138',
         'PORT': '3306',
     }
 }
